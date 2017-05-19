@@ -1,0 +1,4 @@
+﻿https://github.com/karenpayneoregon/excel-usedrowscolumns
+http://stackoverflow.com/questions/43910117/get-last-non-empty-column-and-row-index-from-excel-using-interop/43965894#43965894
+
+https://github.com/mgravell/fast-member

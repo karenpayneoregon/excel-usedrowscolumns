@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelUsedColumnsLib_vb", "ExcelUsedColumnsLib_vb\ExcelUsedColumnsLib_vb.vbproj", "{7E3837BA-8EBE-41FC-AA0C-8F61F921BDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelUsedColumnsLib", "ExcelUsedColumnsLib\ExcelUsedColumnsLib.csproj", "{3F995D29-D841-463D-A0D8-8101B7FE3437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelUsedRowsWindowsForms", "ExcelUsedRowsWindowsForms\ExcelUsedRowsWindowsForms.csproj", "{4AB19492-B2F4-4103-9AF9-C013D37A6BD8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelUsedRowsWindowsForms_vb", "ExcelUsedRowsColumnsWindowsForms_vb\ExcelUsedRowsWindowsForms_vb.vbproj", "{781B04F6-B1EB-43CB-A8B2-571913335765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheetLightLibrary", "SpreadSheetLightLibrary\SpreadSheetLightLibrary.csproj", "{46010A5F-3CA5-469A-938B-E102190D6098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheetLightDemo", "SpreadSheetLightDemo\SpreadSheetLightDemo.csproj", "{36313968-D14E-4D33-A475-7B8B395AD595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3837BA-8EBE-41FC-AA0C-8F61F921BDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3837BA-8EBE-41FC-AA0C-8F61F921BDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3837BA-8EBE-41FC-AA0C-8F61F921BDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3837BA-8EBE-41FC-AA0C-8F61F921BDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F995D29-D841-463D-A0D8-8101B7FE3437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F995D29-D841-463D-A0D8-8101B7FE3437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F995D29-D841-463D-A0D8-8101B7FE3437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F995D29-D841-463D-A0D8-8101B7FE3437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB19492-B2F4-4103-9AF9-C013D37A6BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB19492-B2F4-4103-9AF9-C013D37A6BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB19492-B2F4-4103-9AF9-C013D37A6BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB19492-B2F4-4103-9AF9-C013D37A6BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781B04F6-B1EB-43CB-A8B2-571913335765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781B04F6-B1EB-43CB-A8B2-571913335765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781B04F6-B1EB-43CB-A8B2-571913335765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781B04F6-B1EB-43CB-A8B2-571913335765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46010A5F-3CA5-469A-938B-E102190D6098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46010A5F-3CA5-469A-938B-E102190D6098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46010A5F-3CA5-469A-938B-E102190D6098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46010A5F-3CA5-469A-938B-E102190D6098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36313968-D14E-4D33-A475-7B8B395AD595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36313968-D14E-4D33-A475-7B8B395AD595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36313968-D14E-4D33-A475-7B8B395AD595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36313968-D14E-4D33-A475-7B8B395AD595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
