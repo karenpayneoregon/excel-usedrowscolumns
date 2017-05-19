@@ -1,4 +1,8 @@
 # excel-usedrowscolumns
-Sample for getting last used cell addressed from any WorkSheets in an Excel WorkBook using VB.NET in VS2015. Since there is a dependency on Microsoft.Office.Interop.Excel you may need to remove the reference and add it back in if there the reference can't be located which means you have a different version of Excel.
 
-The project folder begins with MSDN because this is a subset of a MSDN code sample.
+This repository contains code demonstrating how to retrieve the last cell address in an Excel worksheet.  There are two windows forms projects which rely on two class projects to obtain cells addresses via Excel automation which is relatively slow to get the addresses while the third project Spreadsheetlight form and class projects are much faster to get the last cell address.
+
+I’m just starting out here so make sure to obtain the code from the Update1 version, not master.
+
+https://github.com/karenpayneoregon/excel-usedrowscolumns/tree/Update1
+  
